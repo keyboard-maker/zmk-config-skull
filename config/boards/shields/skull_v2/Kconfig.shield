@@ -1,0 +1,2 @@
+config_SHIELD_SKULL_V2
+    def_bool $(shields_list_contains, skull_v2)

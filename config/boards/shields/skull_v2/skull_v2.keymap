@@ -14,7 +14,7 @@
             bindings = <
                 &kp Z    &kp M       &kp K
                 &mo 1    &kp Y       &mo 2
-                &out OUT_USB    &OUT_BLE       &kp O
+                &out OUT_USB    &out OUT_BLE       &kp O
             >;
         };
         abc { // Layer 1

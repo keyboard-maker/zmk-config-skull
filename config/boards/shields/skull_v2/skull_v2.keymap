@@ -12,7 +12,7 @@
 // |    &mo 1    |   LEFT SHIFT   |    &mo 2    |
             bindings = <
                 &kp Z    &kp M       &kp K
-                &mo 1    &kp LSHIFT  &mo 2
+                &mo 1    &kp Y       &mo 2
                 &kp L    &kp P       &kp O
             >;
         };
@@ -33,9 +33,9 @@
 // |        X       |      Y       |      Z     |
 // |   LEFT CTRL    |  LEFT ALT    |   &trans   |
             bindings = <
-                &bt BT_SEL 1        &bt BT_CLR     &kp Z
-                &kp LCTRL    &kp LALT    &trans
-                &kp LCTRL    &kp LALT    &trans
+                &bt BT_SEL 1        &bt BT_CLR  &kp Z
+                &kp LCTRL           &kp LALT    &trans
+                &kp LCTRL           &kp LALT    &trans
             >;
         };
     };

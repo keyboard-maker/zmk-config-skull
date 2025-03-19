@@ -24,10 +24,10 @@
                 &kp TAB    &kp Q      &kp W    &kp E    &kp R    &kp T    &kp Y    &kp U    &kp I     &kp O     &kp P     &kp LBKT  &kp RBKT  &kp BSLH
                 &kp CLCK   &kp A      &kp S    &kp D    &kp F    &kp G    &kp H    &kp J    &kp K     &kp L     &kp SEMI  &kp APOS  &trans    &kp RET   
                 &trans     &kp LSHFT  &kp Z    &kp X    &kp C    &kp V    &kp B    &kp N    &kp M    &kp COMMA &kp DOT   &kp FSLH  &kp UP    &trans    
-                &trans     &kp LCTRL  &kp LGUI   &kp LALT  &trans   &trans  &kp SPACE &trans   &trans &trans  &mo 2     &kp LEFT  &kp DOWN  &kp RIGHT 
+                &trans     &kp LCTRL  &kp LGUI   &kp LALT  &trans   &trans  &kp SPACE &trans   &trans &trans  &mo 1     &kp LEFT  &kp DOWN  &kp RIGHT 
             >;
         };
-        bluetooth_layer {
+        layer_1 {
             // ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
             // │BTC│BT1│BT2│BT3│BT4│BT5│OUT│   │   │   │   │   │   │ BTCLR │
             // ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
